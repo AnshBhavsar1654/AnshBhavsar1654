@@ -70,16 +70,9 @@ I love the challenge of taking a raw model and turning it into a deployable, sca
   </a>
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshBhavsar1654&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshBhavsar1654&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-  <br/>
-
   <img src="https://nirzak-streak-stats.vercel.app/?user=AnshBhavsar1654&theme=tokyonight&hide_border=true" alt="streak graph" />
   <br/>
   
   <img src="https://komarev.com/ghpvc/?username=AnshBhavsar1654&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
 
 </div>
-
-### 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=AnshBhavsar1654&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
