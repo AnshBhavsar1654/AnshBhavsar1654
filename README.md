@@ -33,7 +33,7 @@ I love the challenge of taking a raw model and turning it into a deployable, sca
 - 🔭 **What I'm building:** Automated pipelines involving Generative AI and Conversational agents.
 - 🌱 **What I'm learning:** I'm diving deep into **MLOps** and **Cloud Native AI** (AWS) to understand how to scale large language models efficiently in production.
 - 👯 **Looking to collaborate on:** Open-source Generative AI projects, RAG implementations, or any tool that pushes the boundaries of NLP.
-- ⚡ **Fun fact:** When I'm not training models, I'm on the court—I represented **Gujarat at the National level in Throwball** 🏆.
+- ⚡ **Fun fact:** I represented **Gujarat at the National level in Throwball** 🏆.
 
 ---
 
