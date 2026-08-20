@@ -81,13 +81,3 @@ I love the challenge of taking a raw model and turning it into a deployable, sca
   <img src="https://komarev.com/ghpvc/?username=AnshBhavsar1654&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
 
 </div>
-
----
-
-## ⚽ Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshBhavsar1654/AnshBhavsar1654/output/footballer-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshBhavsar1654/AnshBhavsar1654/output/footballer-contribution-graph.svg">
-  <img alt="Footballer contribution graph" src="https://raw.githubusercontent.com/AnshBhavsar1654/AnshBhavsar1654/output/footballer-contribution-graph.svg">
-</picture>
