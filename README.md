@@ -72,7 +72,22 @@ I love the challenge of taking a raw model and turning it into a deployable, sca
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=AnshBhavsar1654&theme=tokyonight&hide_border=true" alt="streak graph" />
   <br/>
-  
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnshBhavsar1654&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnshBhavsar1654&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnshBhavsar1654&theme=tokyonight" alt="Top Languages by Commit" />
+  <br/>
+
   <img src="https://komarev.com/ghpvc/?username=AnshBhavsar1654&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
 
 </div>
+
+---
+
+## 👾 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshBhavsar1654/AnshBhavsar1654/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshBhavsar1654/AnshBhavsar1654/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AnshBhavsar1654/AnshBhavsar1654/output/pacman-contribution-graph.svg">
+</picture>
