@@ -66,11 +66,11 @@ I love the challenge of taking a raw model and turning it into a deployable, sca
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnshBhavsar1654&theme=gruvbox&column=7" alt="trophies" />
+    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=AnshBhavsar1654&theme=gruvbox&column=7" alt="trophies" />
   </a>
   <br/><br/>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AnshBhavsar1654&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshBhavsar1654&theme=tokyonight&hide_border=true" alt="streak graph" />
   <br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnshBhavsar1654&theme=tokyonight" alt="Stats Card" />
