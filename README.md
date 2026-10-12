@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ansh Bhavsar 👋</h1>
 
 <p align="center">
-  <em>Founding Engineer at Blink Analytics — building production AI systems at scale.</em>
+  <em>Founding Engineer at Serin AI — building production AI systems at scale.</em>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## About Me
 
-Founding Engineer at **Blink Analytics** building full-stack analytical platforms with **Next.js** and **FastAPI**. Previously worked on **LLM evaluation frameworks**, enterprise AI integrations, and production NLP pipelines.
+Founding Engineer at **Serin AI** building full-stack analytical platforms with **Next.js** and **FastAPI**. Previously worked on **LLM evaluation frameworks**, enterprise AI integrations, and production NLP pipelines.
 
 - **Building:** Scalable AI products, LLM eval frameworks, and production-grade full-stack apps.
 - **Learning:** MLOps, Cloud-Native AI, and scaling LLMs in production.
