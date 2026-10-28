@@ -35,7 +35,7 @@ I build full-stack analytical platforms with **Next.js** and **FastAPI**, and I 
 | LLM Engineering Intern | Serin AI |
 | Technical Intern | Pravi |
 | AI/ML Intern | Intech Creative Services |
-| Machine Learning Intern | INTECH |
+| Machine Learning Intern | Intech Creative Services |
 
 ## Education
 
@@ -48,30 +48,23 @@ I build full-stack analytical platforms with **Next.js** and **FastAPI**, and I 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,postgres&theme=dark" alt="Languages" />
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6) ![C++](https://img.shields.io/badge/C%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=00599C)
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark" alt="AI and ML" />
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![scikit-learn](https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E) ![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=flat-square&logo=opencv&logoColor=5C3EE8) ![Pandas](https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=E70488) ![NumPy](https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF) ![LangChain](https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=2DD4BF) ![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logo=langchain&logoColor=2DD4BF) ![MLflow](https://img.shields.io/badge/MLflow-161B22?style=flat-square&logo=mlflow&logoColor=0194E2)
 
 **Backend and Data**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,sqlite,mongodb&theme=dark" alt="Backend and data" />
+![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688) ![Flask](https://img.shields.io/badge/Flask-161B22?style=flat-square&logo=flask&logoColor=FFFFFF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1) ![SQLite](https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=0F80CC) ![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248)
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vercel&theme=dark" alt="Frontend" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Vercel](https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=FFFFFF) ![Streamlit](https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=FF4B4B)
 
 **DevOps and Tooling**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" alt="DevOps" />
-<img src="https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED) ![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=FFFFFF) ![PostHog](https://img.shields.io/badge/PostHog-161B22?style=flat-square&logo=posthog&logoColor=F9BD2B) ![n8n](https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=EA4B71)
 
 ---
 
