@@ -1,84 +1,87 @@
-<h1 align="center">Hi there, I'm Ansh Bhavsar 👋</h1>
+<h1 align="center">Ansh Bhavsar</h1>
 
 <p align="center">
-  <em>Founding Engineer at Serin AI — building production AI systems at scale.</em>
+  <strong>Founding Engineer at Serin AI</strong><br/>
+  <em>Building production-grade AI systems: LLM evaluation, RAG, and full-stack analytics platforms.</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ansh-bhavsar-263a73273" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/ansh164/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="mailto:anshbhavsar164@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://x.com/ansh_bhavsar7" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-  </a>
-  <a href="https://instagram.com/anshbhavsar101" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://youtube.com/@anshbhavsar71018" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
+  <a href="https://linkedin.com/in/ansh-bhavsar-263a73273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:anshbhavsar164@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://x.com/ansh_bhavsar7"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://leetcode.com/u/ansh164/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
 
 ---
 
-## About Me
+## About
 
-Founding Engineer at **Serin AI** building full-stack analytical platforms with **Next.js** and **FastAPI**. Previously worked on **LLM evaluation frameworks**, enterprise AI integrations, and production NLP pipelines.
+I build full-stack analytical platforms with **Next.js** and **FastAPI**, and I care most about the unglamorous parts of AI in production: evaluation, reliability, latency, and observability. Before Serin AI, I worked on LLM evaluation frameworks, enterprise AI integrations, and production NLP pipelines.
 
-- **Building:** Scalable AI products, LLM eval frameworks, and production-grade full-stack apps.
-- **Learning:** MLOps, Cloud-Native AI, and scaling LLMs in production.
-- **Collaborating on:** Open-source GenAI, RAG implementations, or NLP tools.
+| | |
+|---|---|
+| 🔭 **Building** | Scalable AI products, LLM eval frameworks, production-grade full-stack apps |
+| 🌱 **Learning** | MLOps, cloud-native AI, serving and scaling LLMs |
+| 🤝 **Open to collaborating on** | Open-source GenAI, RAG implementations, NLP tooling |
+| 📫 **Reach me** | [anshbhavsar164@gmail.com](mailto:anshbhavsar164@gmail.com) |
 
 ---
+
+## Experience
+
+| Role | Company |
+|---|---|
+| **Founding Engineer** | Serin AI |
+| LLM Engineering Intern | Serin AI |
+| Technical Intern | Pravi |
+| AI/ML Intern | Intech Creative Services |
+| Machine Learning Intern | INTECH |
 
 ## Education
 
-**B.Tech in Computer Science** (Minor in Adaptive AI) — Institute of Technology, Nirma University &nbsp;·&nbsp; CGPA: **9.07** &nbsp;·&nbsp; 2022 – 2026
+**B.Tech in Computer Science** (Minor in Adaptive AI), Institute of Technology, Nirma University
+2022 – 2026 · CGPA **9.07**
 
 ---
 
 ## Tech Stack
 
 **Languages**
-<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/sql-003B57?style=flat&logo=mysql&logoColor=white)
 
-**AI, ML & NLP**
-<br>
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![MLflow](https://img.shields.io/badge/mlflow-%230194E2.svg?style=flat&logo=mlflow&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,postgres&theme=dark" alt="Languages" />
 
-**Backend & Database**
-<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+**AI / ML**
 
-**Frontend & Web**
-<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark" alt="AI and ML" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
 
-**DevOps & Tools**
-<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%2312100E.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![PostHog](https://img.shields.io/badge/PostHog-1DA1F2?style=flat&logo=posthog&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+**Backend and Data**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,sqlite,mongodb&theme=dark" alt="Backend and data" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vercel&theme=dark" alt="Frontend" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+**DevOps and Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" alt="DevOps" />
+<img src="https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnshBhavsar1654&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnshBhavsar1654&theme=tokyonight" alt="Top languages" />
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshBhavsar1654&theme=tokyonight&hide_border=true" alt="streak graph" />
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnshBhavsar1654&theme=tokyonight" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnshBhavsar1654&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnshBhavsar1654&theme=tokyonight" alt="Top Languages by Commit" />
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=AnshBhavsar1654&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnshBhavsar1654&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
